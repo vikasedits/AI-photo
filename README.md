@@ -1,2 +1,21 @@
-# AI-photo
-AI Photo is a collection of creative AI photo editing prompts, tutorials, and image enhancement ideas for creators and designers.
+# AI Photo
+
+Welcome to **AI Photo**, a collection of high-quality AI photo editing prompts, creative image transformation ideas, and editing tutorials. This repository is designed for creators, photographers, designers, and AI enthusiasts looking to create stunning and realistic images using AI tools.
+
+## What You'll Find
+
+- AI Photo Editing Prompts
+- Portrait & Cinematic Prompts
+- Creative Editing Tutorials
+- Image Enhancement Tips
+- Trending AI Editing Ideas
+
+Whether you're a beginner or a professional, these prompts can help you achieve impressive AI-generated results.
+
+## Learn More
+
+For more AI photo editing prompts, tutorials, and creative inspiration, visit **Vikas Edits**:
+
+👉 https://vikasedits.com
+
+⭐ If you find this repository useful, don't forget to Star it!
