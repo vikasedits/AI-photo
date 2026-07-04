@@ -16,7 +16,7 @@ Whether you're a beginner or a professional, these prompts can help you achieve 
 
 ## Learn More
 
-For more AI photo editing prompts, tutorials, and creative inspiration, Visit **Vikas Edits**: https://vikasedits.com
+For more AI photo editing prompts, tutorials, and creative inspiration, Visit: https://vikasedits.com
 
 
 ⭐ If you find this repository useful, don't forget to Star it!
